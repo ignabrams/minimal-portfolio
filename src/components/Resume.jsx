@@ -6,9 +6,9 @@ function Resume() {
     // Create a new anchor element
     const link = document.createElement("a");
     // Set the href attribute to the path of the PDF file
-    link.href = "/assets/OFFICIAL-RESUME.pdf";
+    link.href = "/assets/ignacio-resume.pdf";
     // Set the download attribute with a value that will be used as the file name
-    link.download = "OFFICIAL-RESUME.pdf";
+    link.download = "ignacio-resume.pdf";
     // Append the anchor to the document body
     document.body.appendChild(link);
     // Programmatically click the anchor to trigger the download

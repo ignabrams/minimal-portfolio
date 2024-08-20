@@ -6,7 +6,7 @@ export default [
   },
   {
     title: "Phishflix",
-    imgUrl: "/assets/Phishphlix.png",
+    imgUrl: "/assets/Phishflix.png",
     stack: ["JavaScript", "Socket.io", "Mongo.db"],
   },
   {
