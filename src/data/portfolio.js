@@ -5,7 +5,7 @@ export default [
     stack: ["Kali Linux", "Nmap", "Metasploit"],
   },
   {
-    title: "Phishphlix",
+    title: "Phishflix",
     imgUrl: "/assets/Phishphlix.png",
     stack: ["JavaScript", "Socket.io", "Mongo.db"],
   },

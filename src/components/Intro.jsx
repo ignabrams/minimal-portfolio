@@ -11,13 +11,12 @@ function Intro() {
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold ">
         IT professional with experience in network administration, programming,
-        graphic design, system security, and help desk services combined with
-        the capacity to understand problems intuitively, strategize a course of
+        graphic design, cybersecurity, and help desk services combined with the
+        capacity to understand problems intuitively, strategize a course of
         action, and create robust solutions that aid productivity,
-        communication, and network integrity. Combine strong analytical,
-        troubleshooting, and technical acumen with solid leadership, project
-        management, and team-building skills to consistently deliver productive
-        technological solutions.
+        communication, and network integrity. With technical acumen, solid
+        leadership, project management, and team-building skills, I aspire to
+        consistently deliver effective and innovative technological solutions.
       </p>
     </div>
   );
