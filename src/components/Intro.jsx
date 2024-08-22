@@ -16,7 +16,7 @@ function Intro() {
         action, and create robust solutions that aid productivity,
         communication, and network integrity. With technical acumen, solid
         leadership, project management, and team-building skills, I aspire to
-        consistently deliver effective and innovative technological solutions.
+        deliver effective and innovative technological solutions.
       </p>
     </div>
   );
