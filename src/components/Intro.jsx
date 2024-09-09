@@ -7,16 +7,13 @@ function Intro() {
         Ignacio Abrams
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Developer & Security Analyst
+        Software Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold ">
-        IT professional with experience in network administration, programming,
-        graphic design, cybersecurity, and help desk services combined with the
-        capacity to understand problems intuitively, strategize a course of
+        IT professional with experience in programming, network administration,
+        systems design, cybersecurity, and help desk services. With my academic background, I have proven my ability to understand problems intuitively, strategize a course of
         action, and create robust solutions that aid productivity,
-        communication, and network integrity. With technical acumen, solid
-        leadership, project management, and team-building skills, I aspire to
-        deliver effective and innovative technological solutions.
+        communication, and collaboration. I aspire to deliver effective and innovative technological solutions while expanding my expertise as a software developer.
       </p>
     </div>
   );
