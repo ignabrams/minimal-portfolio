@@ -7,13 +7,13 @@ function Intro() {
         Ignacio Abrams
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Developer
+        Software Engineer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold ">
         IT professional with experience in programming, network administration,
         systems design, cybersecurity, and help desk services. With my academic background, I have proven my ability to understand problems intuitively, strategize a course of
         action, and create robust solutions that aid productivity,
-        communication, and collaboration. I aspire to deliver effective and innovative technological solutions while expanding my expertise as a software developer.
+        communication, and collaboration. I aspire to deliver effective and innovative technological solutions while expanding my expertise as a software engineer.
       </p>
     </div>
   );
