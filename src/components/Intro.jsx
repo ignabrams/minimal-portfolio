@@ -7,7 +7,7 @@ function Intro() {
         Ignacio Abrams
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Engineer
+        Software Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold ">
         IT professional with experience in programming, network administration,
